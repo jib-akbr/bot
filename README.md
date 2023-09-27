@@ -1,4 +1,3 @@
-# bot
-Buku sihir grimoire
+# Buku sihir grimoire
 
 Bot Dragon of Time class
